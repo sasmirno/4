@@ -1,0 +1,215 @@
+header{
+	background-color: #008daa;
+	height: 100px;
+}
+.shadow{
+	background: linear-gradient(to top, #eeeeed, grey);
+	height: 5px;
+}
+.link{
+	color: #d4d0c8;
+}
+.link:hover{
+	color: #eeeeed;
+}
+.headerBar{
+	width: 300px;
+	height: 40px;
+}
+.imgVK{
+	background: url(img/vk-gray.png);
+	background-size: 40px;
+	display: block;
+	width: 40px;
+}
+.imgVK:hover{
+	background: url(img/vk-white.png);
+	background-size: 40px;
+	display: block;
+	width: 40px;
+}
+.imgFB{
+	background: url(img/fb-gray.png);
+	background-size: 40px;
+	display: block;
+	width: 40px;
+}
+.imgFB:hover{
+	background: url(img/fb-white.png);
+	background-size: 40px;
+	display: block;
+	width: 40px;
+}
+.imgInst{
+	background: url(img/inst-gray.png);
+	background-size: 40px;
+	display: block;
+	width: 40px;
+}
+.imgInst:hover{
+	background: url(img/inst-white.png);
+	background-size: 40px;
+	display: block;
+	width: 40px;
+}
+.imgTw{
+	background: url(img/tw-gray.png);
+	background-size: 40px;
+	display: block;
+	width: 40px;
+}
+.imgTw:hover{
+	background: url(img/tw-white.png);
+	background-size: 40px;
+	display: block;
+	width: 40px;
+}
+.linkBar{
+	width: 500px;
+	height: 80px;
+	padding: 10px;
+}
+.imgVK2{
+	background: url(img/vk-blue.png);
+	background-size: 60px;
+	display: block;
+	width: 60px;
+}
+.imgVK2:hover{
+	background: url(img/vk-pink.png);
+	background-size: 60px;
+	display: block;
+	width: 60px;
+}
+.imgFB2{
+	background: url(img/fb-blue.png);
+	background-size: 60px;
+	display: block;
+	width: 60px;
+}
+.imgFB2:hover{
+	background: url(img/fb-pink.png);
+	background-size: 60px;
+	display: block;
+	width: 60px;
+}
+.imgInst2{
+	background: url(img/inst-blue.png);
+	background-size: 60px;
+	display: block;
+	width: 60px;
+}
+.imgInst2:hover{
+	background: url(img/inst-pink.png);
+	background-size: 60px;
+	display: block;
+	width: 60px;
+}
+.imgTw2{
+	background: url(img/tw-blue.png);
+	background-size: 60px;
+	display: block;
+	width: 60px;
+}
+.imgTw2:hover{
+	background: url(img/tw-pink.png);
+	background-size: 60px;
+	display: block;
+	width: 60px;
+}
+@font-face {
+	font-family: 'Philosopher-Regular'; 
+	src: local('Philosopher-Regular'),
+		url(fonts/Philosopher-Regular.ttf);
+}
+@font-face {
+	font-family: 'Roboto-Italic'; 
+	src: local('Roboto-Italic'),
+		url(fonts/Roboto-Italic.ttf);
+}
+.bgclr{
+	background-color: #eeeeed;
+}
+.img{
+	background: url(img/design-2461957_1920.png) no-repeat;
+	background-size: 70%;
+	height: 1000px;
+	background-position: bottom left;
+}
+.link2{
+	color: #06bac5;
+	text-decoration: none;
+}
+.link2:hover{
+	color: #eb477b;
+}
+.link3{
+	color: #005c7d;
+}
+.link3:hover{
+	color: #eb477b;
+}
+.font1{
+	font-family: Philosopher-Regular;
+}
+.font2{
+	font-family: Roboto-Italic;
+}
+.fntclr{
+	color: #005c7d;
+}
+.fntclr2{
+	color: #06bac5;
+}
+.fntclr3{
+	color: #008daa;
+}
+.fnt1{
+	font-size: 60px;
+	padding: 50px 0;
+	line-height: 2;
+}
+.fnt2{
+	font-size: 25px;
+	padding: 20px 0;
+	font-weight: 500;
+}
+.bttn{
+	background-color: #005c7d;
+	font-size: 30px;
+	text-decoration: none;
+	color: #d4d0c8;
+	border-radius: 30px;
+	padding: 10px 15px;
+}
+.bttn:hover{
+	background-color: #eb477b;
+	color: #eeeeed;
+}
+.ctr{
+	text-align: center;
+	padding: 50px;
+}
+.pdd{
+	padding: 50px;
+}
+li{
+	list-style: none;
+	padding: 20px;
+}
+summary:hover{
+	text-decoration: underline;
+}
+.sldr{
+	width: 70%;
+	margin: auto;
+}
+.foto{
+	width: 120px;
+	border-radius: 60px;
+}
+footer{
+	background-color: #005c7d;
+	color: #d4d0c8;
+	padding: 20px;
+}
